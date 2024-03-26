@@ -6,6 +6,7 @@
       <class name="testScenarios.SwitchingWindows"/>
       <class name="testScenarios.dynamicData"/>
       <class name="testScenarios.MouseHover"/>
+      <class name="testScenarios.test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
