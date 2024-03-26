@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-19T14:14:11 PDT" name="Suite" finished-at="2024-03-19T14:14:23 PDT" duration-ms="12080">
+  <suite started-at="2024-03-21T13:22:48 PDT" name="Suite" finished-at="2024-03-21T13:23:00 PDT" duration-ms="11206">
     <groups>
     </groups>
-    <test started-at="2024-03-19T14:14:11 PDT" name="Test" finished-at="2024-03-19T14:14:23 PDT" duration-ms="12080">
+    <test started-at="2024-03-21T13:22:48 PDT" name="Test" finished-at="2024-03-21T13:23:00 PDT" duration-ms="11206">
       <class name="testScenarios.SwitchingWindows">
-        <test-method signature="switchWin()[pri:0, instance:testScenarios.SwitchingWindows@ca263c2]" started-at="2024-03-19T14:14:11 PDT" name="switchWin" finished-at="2024-03-19T14:14:16 PDT" duration-ms="5569" status="PASS">
+        <test-method signature="switchWin()[pri:0, instance:testScenarios.SwitchingWindows@45f45fa1]" started-at="2024-03-21T13:22:48 PDT" name="switchWin" finished-at="2024-03-21T13:22:53 PDT" duration-ms="4897" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- switchWin -->
       </class> <!-- testScenarios.SwitchingWindows -->
       <class name="testScenarios.MouseHover">
-        <test-method signature="dragAndDrop()[pri:0, instance:testScenarios.MouseHover@2890c451]" started-at="2024-03-19T14:14:19 PDT" name="dragAndDrop" finished-at="2024-03-19T14:14:23 PDT" duration-ms="3768" status="PASS">
+        <test-method signature="dragAndDrop()[pri:0, instance:testScenarios.MouseHover@1b083826]" started-at="2024-03-21T13:22:56 PDT" name="dragAndDrop" finished-at="2024-03-21T13:23:00 PDT" duration-ms="3571" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dragAndDrop -->
       </class> <!-- testScenarios.MouseHover -->
+      <class name="testScenarios.test">
+        <test-method signature="samp11()[pri:0, instance:testScenarios.test@105fece7]" started-at="2024-03-21T13:23:00 PDT" name="samp11" finished-at="2024-03-21T13:23:00 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- samp11 -->
+      </class> <!-- testScenarios.test -->
       <class name="testScenarios.dynamicData">
-        <test-method signature="MathCalc()[pri:0, instance:testScenarios.dynamicData@2145433b]" started-at="2024-03-19T14:14:16 PDT" name="MathCalc" finished-at="2024-03-19T14:14:19 PDT" duration-ms="2709" status="PASS">
+        <test-method signature="MathCalc()[pri:0, instance:testScenarios.dynamicData@40e6dfe1]" started-at="2024-03-21T13:22:53 PDT" name="MathCalc" finished-at="2024-03-21T13:22:56 PDT" duration-ms="2708" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MathCalc -->
